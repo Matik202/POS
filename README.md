@@ -10,4 +10,3 @@ KANBAN ->        received        reviewing      in process      finished
                  
 Process: take from stock display for iphone 11 and subtract it when the item is finished in the kanban 
 
-PD: 
